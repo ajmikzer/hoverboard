@@ -131,16 +131,16 @@
 	<line fill="none" stroke="#606161" stroke-miterlimit="10" x1="742.662" y1="191.874" x2="761.031" y2="191.874"/>
 	<line fill="none" stroke="#606161" stroke-miterlimit="10" x1="742.666" y1="195.092" x2="761.033" y2="195.092"/>
 </g>
-<text transform="matrix(1 0 0 1 7.5645 232.7842)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">ENTER</text>
-<text transform="matrix(1 0 0 1 7.5645 80.9258)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">ENTER</text>
+<text transform="matrix(1 0 0 1 8.5654 232.7842)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">COME</text>
+<text transform="matrix(1 0 0 1 8.5654 80.9258)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">COME</text>
 <text transform="matrix(0 -1 1 0 409.0801 225.5088)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">MEET</text>
 <text transform="matrix(0 -1 1 0 407.439 124.2085)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">DISCUSS</text>
 <text transform="matrix(1 0 0 1 444.1851 232.7822)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LISTEN</text>
 <text transform="matrix(1 0 0 1 444.1851 76.8149)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LISTEN</text>
 <text transform="matrix(1 0 0 1 605.0928 231.6816)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LEARN</text>
 <text transform="matrix(1 0 0 1 605.0928 75.7144)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LEARN</text>
-<text transform="matrix(1 0 0 1 847.0674 234.667)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LEAVE</text>
-<text transform="matrix(1 0 0 1 847.0674 78.7002)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">LEAVE</text>
+<text transform="matrix(1 0 0 1 840.0615 234.667)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">SHARE</text>
+<text transform="matrix(1 0 0 1 840.0615 78.7002)" fill="#BCBEC0" font-family="'Roboto-Thin'" font-size="16.4172">SHARE</text>
 <g>
 	<path fill="#F6C25B" d="M188.587,168.486l-24.792,41.177h12.521c2.963,0,6.644-2.076,8.173-4.628l10.546-17.551
 		c1.244-2.574,1.204-6.317-0.22-8.689L188.587,168.486z"/>
