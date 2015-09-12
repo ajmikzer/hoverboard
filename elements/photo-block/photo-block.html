@@ -22,13 +22,8 @@
             <div class="flex relative big">
                 <iron-image src="{{photos.big}}" class="placeholder-color fit" sizing="cover" preload fade></iron-image>
             </div>
-            <div class="flex layout vertical">
-                <div class="flex relative">
-                    <iron-image src="{{photos.small.0}}" class="placeholder-color fit" sizing="cover" preload fade></iron-image>
-                </div>
-                <div class="flex relative hidden-xs">
-                    <iron-image src="{{photos.small.1}}" class="placeholder-color fit" sizing="cover" preload fade></iron-image>
-                </div>
+            <div class="flex relative big">
+                <iron-image src="{{photos.small}}" class="placeholder-color fit" sizing="cover" preload fade></iron-image>
             </div>
         </div>
     </template>
@@ -43,7 +38,7 @@
         attached: function() {
             this.photos = {
                 big: '../images/backgrounds/2014_1.jpg',
-                small: ['../images/backgrounds/20142.jpg', '../images/backgrounds/20143.jpg']
+                small: '../images/backgrounds/20142.jpg'
             };
         }
     });
